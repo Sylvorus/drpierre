@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Dr Pierre",
+  "version": "3.0",
+  "permissions": [
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://generativelanguage.googleapis.com/*",
+    "*://*.drfrost.org/*",
+    "*://*.drfrostmaths.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.drfrost.org/*",
+        "*://*.drfrostmaths.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
