@@ -13,3 +13,4 @@ Requirements:
 - Gemini AI API Key
 - Chromium Based Browser
 
+Tip: Wait a reasonable amount of time between answering each question as teachers can see how much time you spend on each question.
