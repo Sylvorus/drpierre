@@ -11,4 +11,4 @@ To bypass extension restrictions, paste the contents of [standalone.js](https://
 
 OR
 
-Click [here](https://sylvorus.github.io/drpierre/) and drag to your bookmarks bar to install the Bookmarklet
+Click [here](https://sylvorus.github.io/drpierre/) to install the Bookmarklet
