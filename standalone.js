@@ -171,7 +171,7 @@
   async function fetchSolve(prompt) {
     const data = Storage.get({ userApiKey: '', selectedModel: 'gemini-3.5-flash' });
     if (!data.userApiKey) {
-      return { error: 'Missing API Key. Open settings in the UI to set it.' };
+      return { error: 'Missing API Key. Open settings to enter it.' };
     }
 
     try {
