@@ -9,7 +9,7 @@ OR
 Click [here](https://sylvorus.github.io/drpierre/) to install the Bookmarklet
 
 Requirements:
-- Extension Developer Mode Enabled (Not for Standalone)
+- Extension Developer Mode Enabled (Not for Standalone or Bookmarklet)
 - Gemini AI API Key
 - Chromium Based Browser
 
