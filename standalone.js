@@ -1,4 +1,4 @@
-javascript:(function() {
+(function() {
   if (document.getElementById('dr-pierre-ui')) {
     document.getElementById('dr-pierre-ui').remove();
   }
