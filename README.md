@@ -1,4 +1,4 @@
-Chrome/Chromium extension that does maths/physics for you you're welcome
+Chromium extension that does maths/physics for you
 
 Can auto-enter answers except for multi-input answers (don't be lazy)
 
