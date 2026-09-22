@@ -7,6 +7,8 @@ Requirements:
 - Gemini AI API Key
 - Chromium Based Browser
 
-To bypass extension restrictions use the standalone: Add a new bookmark and paste the contents of 'standalone' into the url box or
+To bypass extension restrictions, paste the contents of [standalone.js](https://github.com/Sylvorus/drpierre/blob/main/standalone.js) into your browser console 
+
+OR
 
 [Click here and drag to your bookmarks bar to install the Bookmarklet](https://sylvorus.github.io/drpierre/)
