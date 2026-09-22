@@ -1,7 +1,10 @@
-Chrome/Chromium extension that does maths for you you're welcome
+Chrome/Chromium extension that does maths/physics for you you're welcome
 
-You need your own gemini ai api key so go get that
+Can auto-enter answers except for multi-input answers (don't be lazy)
 
-Can enter answers by itself except for multi-input answers (don't be lazy)
+Requirements:
+- Extension Developer Mode Enabled
+- Gemini AI API Key
+- Chromium Based Browser
 
-enable developer mode in extensions!!
+To bypass extension restrictions use the standalone: Add a new bookmark and paste the contents of 'standalone' into the url box :)
